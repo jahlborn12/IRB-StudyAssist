@@ -1,0 +1,24 @@
+Research Subjects|T|A vulnerable subject is a person who has diminished capacity to give consent.|True|False|1|A
+
+Research Subjects|M|Vulnerable subjects require special protection.  A vulnerable subject may be:|A person who has limited intellectual capacity|A person under the age of consent|A person who has limited purchasing power|All of the above|1|D
+
+Research Investigators|T|The Principal Investigator (PI) develops the research methodology  but is rarely responsible for all activities associated with the conduct of a research project.|True|False|1|B
+
+Research Investigators|T|All investigators on the study team are required to have current certification in the PEERRS training in human subjects protection.|True|False|1|A
+
+IRB|M|The role of the IRB is to:|Protect research subjects and their well being|Protect students from unethical faculty|Protect faculty from university administration|Protect the world from devastation |1|A
+
+IRB|M|The UM online application system is called:|eIRBapply|eSubjectProtection|PEERRS|eResearch|1|D
+
+Research Data|T|If a travel drive with personally identifiable data stored on it is lost the PI must notify the IRB immediately.|True|False|1|A
+
+Research Data|T|File encryption is difficult and therefore optional in most cases.|True|False|1|B
+
+Consent|T|Obtaining consent...|Is the process of signing a document|Is a process of discussion and a chance to ask questions|1|B
+
+Consent|T|The consent form should be written with the reading level of the potential subjects in mind.|True|False|1|A
+
+Regulations|M|HIPAA is....|the plural of hippocampus|a set of regulations for hospital experimental drugs|a set of regulations for patient record confidentiality|what happens when your hips grow too large|1|C
+
+Regulations|M| To meet the federal definition for research the study must|Use a systematic approach to data collection|Use as many collection methods as possible|Use federal funds|Have "Research" in the title|2|A
+
